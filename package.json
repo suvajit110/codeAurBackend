@@ -1,0 +1,17 @@
+{
+  "name": "chaiaurbackend",
+  "version": "1.0.0",
+  "description": "a backend at code withmy professional",
+  "keywords": [
+    "javascript",
+    "backend",
+    "code"
+  ],
+  "license": "ISC",
+  "author": "Suvajit De",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
